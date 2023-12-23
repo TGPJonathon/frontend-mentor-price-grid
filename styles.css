@@ -170,6 +170,10 @@ button {
   margin-bottom: 0;
 }
 
+.price-grid-subscription > p {
+  font-size: 0.9rem;
+}
+
 .price-grid-cost {
   display: flex;
   gap: 1rem;
